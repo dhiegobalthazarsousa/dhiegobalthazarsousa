@@ -1,4 +1,5 @@
-# Olá, meu nome é Dhiego Balthazar 🤘 
+# Olá, meu nome é Dhiego Balthazar :metal: :smile:
+> Meu apelido é **Zóio** :stuck_out_tongue_closed_eyes:
 
 Tenho **graduação** em Análise e Desenvolvimento de Sistemas, **pós-graduação** em Segurança da Informação e estou estudando **Licenciatura em Matemática**.
 
