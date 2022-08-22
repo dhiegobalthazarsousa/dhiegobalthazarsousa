@@ -2,7 +2,7 @@
 
 Tenho **graduação** em Análise e Desenvolvimento de Sistemas, **pós-graduação** em Segurança da Informação e estou estudando **Licenciatura em Matemática**.
 
-Sou desenvolvedor **JAVA** e **PHP**. Geralmente utilizo o banco de dados **MySQL**, mas na faculdade eu aprendi **Postgre** e **Oracle PL/SQL**.
+Sou desenvolvedor **JAVA** e **PHP**. Geralmente utilizo o banco de dados **MySQL**.
 
 Gosto também de **Segurança da Informação**, **metodologias ágeis**, **Web Application** e **transmitir conhecimento**.
 
