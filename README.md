@@ -1,16 +1,28 @@
-### Hi there 👋
+# Olá, sou Dhiego Balthazar 🤘
 
-<!--
-**dhiegobalthazarsousa/dhiegobalthazarsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho **graduação** em Análise e Desenvolvimento de Sistemas, **pós-graduação** em Segurança da Informação e estou estudando **Licenciatura em Matemática**.
 
-Here are some ideas to get you started:
+Sou desenvolvedor **JAVA** e **PHP**. Geralmente utilizo o banco de dados **MySQL**, mas na faculdade eu aprendi **Postgre** e **Oracle PL/SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto também de **Segurança da Informação**, **metodologias ágeis**, **Web Application** e **transmitir conhecimento**.
+
+Ler livros de aventura, criar jogos no **RPG MAKER** e jogar com meus filhos são meus **hobbies** favoritos.
+
+## Tenho conhecimento em:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /> -> ⚫⚫⚫⚪⚪
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚪⚪⚪
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> -> ⚫⚫⚪⚪⚪
+
