@@ -11,18 +11,11 @@ Ler livros de aventura, criar jogos no **RPG MAKER** e jogar com meus filhos sã
 ## Tenho conhecimento em:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /> -> ⚫⚫⚫⚪⚪
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚪⚪⚪
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="60" height="60"/> -> ⚫⚫⚪⚪⚪
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="60" height="60"/> -> ⚫⚫⚫⚪⚪
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> -> ⚫⚫⚪⚪⚪
-
