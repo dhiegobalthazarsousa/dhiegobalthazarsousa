@@ -4,7 +4,7 @@ Tenho **graduação** em Análise e Desenvolvimento de Sistemas, **pós-graduaç
 
 Sou desenvolvedor **JAVA** e **PHP**. Geralmente utilizo o banco de dados **MySQL**.
 
-Gosto também de **Segurança da Informação**, **metodologias ágeis**, **Web Application** e **transmitir conhecimento**.
+Gosto também de **Segurança da Informação**, **Metodologias Ágeis**, **UML**, **Web Application** e **transmitir conhecimento**.
 
 Ler livros de aventura, criar jogos no **RPG MAKER** e jogar com meus filhos são meus **hobbies** favoritos.
 
