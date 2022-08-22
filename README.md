@@ -9,7 +9,7 @@ Gosto também de **Segurança da Informação**, **Metodologias Ágeis**, **UML*
 
 Ler livros de aventura, criar jogos no **RPG MAKER** e jogar com meus filhos são meus **hobbies** favoritos.
 
-## Tenho conhecimento em:
+## Tenho conhecimento nas tecnologias:
 > Obs: os círculos preenchidos são níveis de conhecimento adquiridos.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> -> ⚫⚫⚫⚪⚪
@@ -23,7 +23,7 @@ Ler livros de aventura, criar jogos no **RPG MAKER** e jogar com meus filhos sã
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> -> ⚫⚫⚪⚪⚪
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" /> -> ⚫⚪⚪⚪⚪
 
-## Estou aprendendo
+## Estou aprendendo as tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60"/>
