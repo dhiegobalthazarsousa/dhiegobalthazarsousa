@@ -3,7 +3,7 @@
 
 Tenho **graduação** em Análise e Desenvolvimento de Sistemas, **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
 
-Sou desenvolvedor **JAVA** e **PHP**. Geralmente utilizo o banco de dados **MySQL**.
+Sou desenvolvedor e **PHP** e **MySQL**.
 
 Gosto também de **Segurança da Informação**, **Metodologias Ágeis**, **UML**, **Web Application** e amo, de paixão :heart:, **transmitir conhecimento**.
 
