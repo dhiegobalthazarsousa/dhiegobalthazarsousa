@@ -9,6 +9,7 @@ Gosto também de **Segurança da Informação**, **Metodologias Ágeis**, **UML*
 
 Ler livros de aventura, criar jogos no **RPG MAKER** e jogar com meus filhos são meus **hobbies** favoritos.
 
+🔗 LinkedIn -> https://www.linkedin.com/in/dhiego-balthazar/
 
 
 
