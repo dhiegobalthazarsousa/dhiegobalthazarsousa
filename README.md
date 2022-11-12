@@ -1,7 +1,7 @@
 # Olá, meu nome é Dhiego Balthazar :metal: :smile:
 > Meu apelido é **Zóio** :stuck_out_tongue_closed_eyes:
 
-**Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, e **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
+**Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, e fiz **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
 
 Já criei aplicações WEB com **PHP**, **HTML**, **CSS** e **Javascritp** utilizando o banco de dados **MySQL**.
 
