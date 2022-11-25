@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 # Olá, meu nome é Dhiego Balthazar :metal: :smile:
 > Meu apelido é **Zóio** :stuck_out_tongue_closed_eyes:
 
@@ -9,6 +12,13 @@
 
 🔗 LinkedIn: 
 https://www.linkedin.com/in/dhiego-balthazar/
+
+<i class="devicon-codeigniter-plain-wordmark colored"></i>
+<i class="devicon-composer-line-wordmark"></i>
+<i class="devicon-html5-plain-wordmark"></i>
+                    
+          
+          
 
 | <a href="https://github.com/dhiegobalthazarsousa"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiegobalthazarsousa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dhiego's github stats" /></a> | <a href="https://github.com/dhiegobalthazarsousa"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegobalthazarsousa&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
