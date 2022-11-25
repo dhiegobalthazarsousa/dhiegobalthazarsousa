@@ -12,6 +12,9 @@
 🔗 LinkedIn: 
 https://www.linkedin.com/in/dhiego-balthazar/
 
+| <a href="https://github.com/dhiegobalthazarsousa//github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiegobalthazarsousa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dhiego's github stats" /></a> | <a href="https://github.com/dhiegobalthazarsousa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegobalthazarsousa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
 
