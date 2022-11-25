@@ -5,7 +5,7 @@
 
 🎲 Ler livros de aventura, criar jogos no **RPG MAKER**, jogar **RPG D&D5e** com meus filhos e ensiná-los sobre as coisas lindas do mundo, são meus **hobbies** favoritos.
 
-### Linguagens
+### Linguagens que Utilizo
 
 <div style="display: inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>
@@ -18,11 +18,15 @@
           
 </div>
 
-### Ferramentas
+### Ferramentas que Utilizo
 
 <div style="display: inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50px"/>
+          
           
 </div>
                     
