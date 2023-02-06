@@ -3,18 +3,18 @@
 
 🎓 Sou **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, fiz **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
 
+✨ Tenho pontos fortem em comunicação e desenvolvimento. Sou de fácil aprendisagem e prezo muito pelo desenvolvimento de pessoas.
+
 🎲 Ler livros de aventura, criar jogos no **RPG MAKER**, jogar **RPG D&D5e** com meus filhos e ensiná-los sobre as coisas lindas do mundo, são meus **hobbies** favoritos.
 
 <hr>
 
-### Linguagens que Utilizo
+### Linguagens/ferramentas que Utilizo
 
 <div style="display: inline-block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px"/>
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="50px"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px"/>
           
@@ -23,12 +23,18 @@
 ### Ferramentas que Utilizo
 
 <div style="display: inline-block">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="50px"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  width="50px"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50px"/>
           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>
+          
+
           
 </div>
 
