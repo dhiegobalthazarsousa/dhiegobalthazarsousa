@@ -3,7 +3,7 @@
 
 🎓 Sou **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, fiz **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
 
-✨ Meus pontos fortes são: comunicação e desenvolvimento.
+✨ Meus pontos fortes são: comunicação e desenvolvimento, reconheço isso por feedbacks recebidos e sou apaixonado em lecionar. Já fui voluntário no programa Escola da Família como instrutor de lógica de programação.
 
 🎲 Gosto de Star Wars, livros de aventura, criar jogos no **RPG MAKER**, jogar **RPG D&D5e** com meus filhos e lugares montanhosos.
 
