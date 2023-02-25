@@ -5,7 +5,7 @@
 
 ✨ Meu ponto forte é comunicação e desenvolvimento.
 
-🎲 Ler livros de aventura, criar jogos no **RPG MAKER**, jogar **RPG D&D5e** com meus filhos e ensiná-los sobre as coisas lindas do mundo, são meus **hobbies** favoritos.
+🎲 Gosto de Star Wars, livros de aventura, criar jogos no **RPG MAKER**, jogar **RPG D&D5e** com meus filhos e lugares montanhosos.
 
 <hr>
 
