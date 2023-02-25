@@ -1,5 +1,5 @@
 # Olá, meu nome é Dhiego Balthazar :metal: :smile:
-> Meu apelido é **Zóio** :stuck_out_tongue_closed_eyes:
+> Mas podem me chamar de **Salazar** :stuck_out_tongue_closed_eyes:
 
 🎓 Sou **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, fiz **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
 
