@@ -5,7 +5,7 @@
 
 ✨ Meus pontos fortes são: comunicação e desenvolvimento, reconheço isso por feedbacks recebidos e sou apaixonado em lecionar. Já fui voluntário no programa Escola da Família como instrutor de lógica de programação.
 
-🎲 Gosto de Star Wars, livros de aventura, criar jogos no **RPG MAKER**, jogar **RPG D&D5e** com meus filhos e lugares montanhosos.
+🎲 Gosto de Star Wars, the Legend of Zelda, livros de aventura, criar jogos no **RPG MAKER** e jogar **RPG D&D5e** com meus filhos
 
 <hr>
 
