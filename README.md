@@ -1,7 +1,7 @@
 # Olá, meu nome é Dhiego Balthazar
 > Nickname: **Salazar** :stuck_out_tongue_closed_eyes:
 
-Estou em transição de carreira.
+Estou em transição de carreira.<br>
 🎓 Sou **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, fiz **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
 
 ✨ Meus pontos fortes são: comunicação e desenvolvimento, reconheço isso por feedbacks recebidos e sou apaixonado em lecionar. Já fui voluntário no programa Escola da Família como instrutor de lógica de programação.
