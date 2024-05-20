@@ -2,9 +2,9 @@
 > Nickname: **Salazar** :stuck_out_tongue_closed_eyes:
 
 Sou professor de desenvolvimento web e desenvolvedor fullstack.
-🎓 Sou **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, fiz **pós-graduação** em Segurança da Informação e estou estudando **Desenvolvimento WEB na Trybe**.
+🎓 **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, **pós-graduado** em Segurança da Informação.
 
-✨ Meus pontos fortes são: comunicação e desenvolvimento, adoro lecionar e conhecer coisas novas.
+✨ Soft Skils: comunicação, inteligência emocional, solução de problemas.
 
 🎲 Gosto de Star Wars, the Legend of Zelda, livros de aventura, criar jogos no **RPG MAKER** e jogar **RPG D&D5e**.
 
