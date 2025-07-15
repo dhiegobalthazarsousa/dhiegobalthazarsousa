@@ -1,12 +1,9 @@
 # Olá, meu nome é Dhiego Balthazar
-> Nickname: **Salazar** :stuck_out_tongue_closed_eyes:
 
-Sou professor de desenvolvimento web e desenvolvedor fullstack.
-🎓 **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, **pós-graduado** em Segurança da Informação.
+Sou professor de desenvolvimento web, desenvolvedor fullstack e matemática.
+🎓 **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, **pós-graduado** em Segurança da Informação e licenciatura em Matemática.
 
 ✨ Soft Skils: comunicação, inteligência emocional, solução de problemas.
-
-🎲 Gosto de Star Wars, the Legend of Zelda, livros de aventura, criar jogos no **RPG MAKER** e jogar **RPG D&D5e**.
 
 <hr>
 
