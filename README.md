@@ -1,4 +1,4 @@
-# Olá, meu nome é Dhiego Balthazar
+# Olá, meu nome é Dhiego Balthazar <a href="https://www.linkedin.com/in/dhiego-balthazar/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" /></a>
 
 Sou professor de desenvolvimento web, desenvolvedor fullstack e matemática.
 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas pela Uninter, **pós-graduado** em Segurança da Informação e licenciatura em Matemática.
@@ -25,6 +25,4 @@ Sou professor de desenvolvimento web, desenvolvedor fullstack e matemática.
 
           
 </div>
-
-<a href="https://www.linkedin.com/in/dhiego-balthazar/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" /></a>
 
