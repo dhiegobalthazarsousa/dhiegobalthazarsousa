@@ -26,12 +26,5 @@ Sou professor de desenvolvimento web, desenvolvedor fullstack e matemática.
           
 </div>
 
-<hr>
-                    
-| <a href="https://github.com/dhiegobalthazarsousa"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiegobalthazarsousa&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dhiego's github stats" /></a> | <a href="https://github.com/dhiegobalthazarsousa"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiegobalthazarsousa&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<hr>
-
 <a href="https://www.linkedin.com/in/dhiego-balthazar/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" /></a>
 
